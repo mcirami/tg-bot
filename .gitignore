@@ -23,8 +23,6 @@ _ide_helper.php
 Homestead.json
 Homestead.yaml
 Thumbs.db
-telegram_bridge/.env
-telegram_bridge/.venv/
-telegram_bridge/__pycache__/
-telegram_bridge/*.session
-telegram_bridge/*.session-journal
+telegram_bridge/env
+telegram_bridge/venv/
+telegram_bridge/sessions/
