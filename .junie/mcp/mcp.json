@@ -1,0 +1,11 @@
+{
+    "mcpServers": {
+        "laravel-boost": {
+            "command": "/Users/matteocirami/Library/Application Support/Herd/bin/php84",
+            "args": [
+                "/Users/matteocirami/dev-docker/LARADOCK/telegram-bot/artisan",
+                "boost:mcp"
+            ]
+        }
+    }
+}
